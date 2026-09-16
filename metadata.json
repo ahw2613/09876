@@ -1,0 +1,6 @@
+{
+  "name": "루체 리얼티 (LUCE Real Estate)",
+  "description": "하이엔드 주거 및 상업용 프리미엄 부동산 매물 탐색과 전문 공인중개사 자산 컨설팅 플랫폼",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
